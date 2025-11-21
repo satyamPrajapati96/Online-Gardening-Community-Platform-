@@ -22,7 +22,5 @@ Simple, clean Java Swing UI
 
 Beginner-friendly codebase
 
-🔍 Keywords / Tags
 
-java swing desktop-application image-upload
-comment-system serialization beginner-project
+
