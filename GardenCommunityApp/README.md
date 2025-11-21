@@ -1,18 +1,28 @@
-## Getting Started
+📝 Description
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+MiniGardens is a lightweight Java Swing desktop application that allows users to upload images, add captions, and post comments.
+All data is stored locally using Java Serialization.
+No Maven/Gradle or external dependencies required.
 
-## Folder Structure
+🔧 Features
 
-The workspace contains two folders by default, where:
+Upload images (JPG, PNG, GIF, WEBP)
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Add captions to posts
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Comment system for each post
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Edit or delete comments (optional if implemented)
 
-## Dependency Management
+Local data persistence (data/store.ser)
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Images saved to uploads/
+
+Simple, clean Java Swing UI
+
+Beginner-friendly codebase
+
+🔍 Keywords / Tags
+
+java swing desktop-application image-upload
+comment-system serialization beginner-project
